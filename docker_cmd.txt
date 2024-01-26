@@ -1,2 +1,0 @@
-docker build -t python:stats .
-docker run -it --mount type=bind,source=C:\python\sta-web,target=/workspace/src python:stats
